@@ -4,7 +4,7 @@ Minimal reproducible implementation of the FAIR-PV framework.
 
 This repository contains the exact quantitative engine described in:
 
-Ellenberg E, Ramot Y, Katorza E.
+Ellenberg E, Katorza E, Ramot Y,.
 Refining pharmacovigilance in psoriasis: A quantitative evaluation of biologic-attributable risk using the FAIR framework.
 
 ## Mathematical Model
